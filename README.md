@@ -1,7 +1,7 @@
 # Photo_Grid
 ## Author
 <a href="https://twitter.com/SahityaRoy07">
-    <img alt="Twitter: SahityaRoy07" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
+    <img alt="Twitter: SahityaRoy07" src="https://img.shields.io/twitter/follow/SahityaRoy07.svg?style=social" target="_blank" />
   </a>
 
 👤 **Sahitya Roy**
